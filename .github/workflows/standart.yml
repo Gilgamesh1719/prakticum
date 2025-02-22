@@ -8,6 +8,7 @@ on:
   push:
       branches:
       - 'lr_**'
+      - 'lab**'
   pull_request:
     types: [opened, reopened]
 
